@@ -138,7 +138,7 @@ class ResumeHandler(tornado.web.RequestHandler):
                         self.redirect('/mmd')
                     counter+=1
             else:
-                print 'ERROR! Cannot resule this user'
+                print 'ERROR! Cannot resume this user'
 
 class QuestionnaireHandler(tornado.web.RequestHandler):
     def get(self):
@@ -347,6 +347,10 @@ def main():
     #Application() refers to 'class Application'
     http_server = tornado.httpserver.HTTPServer(Application())
     http_server.listen(options.port)
+    
+    print "Server started at http://localhost:%d" % options.port
+    print "Type Ctrl+C to terminate the server"
+
     tornado.ioloop.IOLoop.current().start()
 
 
