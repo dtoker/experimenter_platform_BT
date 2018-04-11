@@ -223,7 +223,7 @@ class MMDHandler(tornado.web.RequestHandler):
             if (self.application.show_question_only):
                 self.redirect('/questionnaire')
             else:
-                self.render('mmd.html', mmd=str(self.application.cur_mmd))
+                self.render('mmd.html', mmd=str(self.application.cur_mmd), group=str(self.application.cur_group))
             self.application.mmd_index+=1
         else:
             self.redirect('/done')
@@ -257,10 +257,11 @@ class UserIDHandler(tornado.web.RequestHandler):
         self.application.end_time = str(datetime.datetime.now().time())
         #get contents submitted in the form for prestudy
         self.application.cur_user = self.get_argument('userID')
+        self.application.cur_group = self.get_argument('Group')
 
         # store the new userID
-        user_data = [self.application.cur_user, str(self.application.start_time), str(self.application.mmd_order)]
-        self.application.conn.execute('INSERT INTO User_data VALUES (?,?,?)', user_data)
+        user_data = [self.application.cur_user, str(self.application.start_time), str(self.application.mmd_order),self.application.cur_group]
+        self.application.conn.execute('INSERT INTO User_data VALUES (?,?,?,?)', user_data)
         self.application.conn.commit()
 
         self.redirect('/prestudy')

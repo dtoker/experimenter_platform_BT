@@ -1,23 +1,11 @@
 /**
  * Created by Enamul on 2016-11-23.
+ * Edited by Dereck on 2018-04-11.
  */
 var MMDSet = [];
 var currentMMD; //by default
+var group;
 
-
-/*$( "#button_next" ).click(function() {
-     console.log(new Date().getTime()); //get the timestamp
-
-     var getCurrentMMDIndex = MMDSet.indexOf(parseInt(currentMMD));
-     if(getCurrentMMDIndex<MMDSet.length){
-          currentMMD = (MMDSet[getCurrentMMDIndex+1]).toString();
-          console.log(currentMMD);
-          loadMMD(currentMMD);
-
-     }
-
-});
-*/
 
 d3.json("static/data/conditions.json", function(data){
 
@@ -40,7 +28,8 @@ d3.json("static/data/conditions.json", function(data){
 
 });
 
-function loadMMD(mmdName){
+//Dereck added user_group to determine viz or noviz condition
+function loadMMD(mmdName,user_group){
      setTimeout(function () {
      $("#mmdOptions").val(parseInt(mmdName));
      },500);
@@ -50,7 +39,16 @@ function loadMMD(mmdName){
      d3.json("static/data/"+mmdName+".json", function(data){
           $("#theText").html(data.text);
           //console.log('<img src='+data.chart+'');
-          $("#visualization").html('<img id="theChart" src="static/'+data.chart+'">' );					
+					if (user_group == "1"){
+						$("#visualization").html('<img id="theChart" src="static/'+data.chart+'">' );
+					}
+					else {
+						no_viz = data.chart.slice(0, -4) +"0"+data.chart.slice(-4);
+						$("#visualization").html('<img id="theChart" src="static/'+no_viz+'">' );
+					}
+
+					// This code is for the coordinate extraction for generating AOIs
+					/*
 					var coordinatesChars = [];
 
 					var some_text = $("#theTextParagraph").text().trim()
@@ -88,6 +86,7 @@ function loadMMD(mmdName){
 					}
 
 					console.log(coordinatesChars);
+				*/
 
      });
 }
