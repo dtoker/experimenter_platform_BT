@@ -1,0 +1,220 @@
+K4 = 0.800000
+K6 = 0.000000
+K8 = 0.000000
+
+Match?
+Num Boxes?
+Test Item Onset Time
+Response Time
+Response Key
+Response Correct?
+
+No Match
+8
+340418.7744
+340421.6923
+Z
+Incorrect
+
+No Match
+8
+340422.2566
+340423.4187
+Z
+Incorrect
+
+Match
+4
+340423.9709
+340425.1058
+Z
+Correct
+
+No Match
+6
+340425.6558
+340426.9162
+Z
+Incorrect
+
+Match
+6
+340427.4715
+340428.6955
+Z
+Correct
+
+Match
+6
+340429.2541
+340430.4117
+Z
+Correct
+
+Match
+6
+340430.9536
+340432.1868
+Z
+Correct
+
+Match
+8
+340432.7363
+340433.895
+Z
+Correct
+
+Match
+6
+340434.4524
+340435.5859
+Z
+Correct
+
+No Match
+8
+340436.1352
+340437.3053
+Z
+Incorrect
+
+No Match
+6
+340437.8512
+340439.0502
+Z
+Incorrect
+
+Match
+4
+340439.6006
+340440.7339
+Z
+Correct
+
+No Match
+4
+340441.2838
+340442.49
+Z
+Incorrect
+
+Match
+8
+340443.0494
+340444.2058
+Z
+Correct
+
+No Match
+4
+340444.7485
+340445.9465
+Z
+Incorrect
+
+Match
+8
+340446.4984
+340447.6319
+Z
+Correct
+
+Match
+4
+340448.1812
+340449.3144
+Z
+Correct
+
+No Match
+6
+340449.8634
+340450.9966
+Z
+Incorrect
+
+Match
+8
+340451.5466
+340452.6798
+Z
+Correct
+
+Match
+6
+340453.2295
+340454.4364
+Z
+Correct
+
+No Match
+6
+340454.9787
+340456.2192
+Z
+Incorrect
+
+Match
+4
+340456.7777
+340458.0021
+Z
+Correct
+
+Match
+4
+340458.561
+340459.7977
+Z
+Correct
+
+No Match
+4
+340460.3436
+340461.4768
+Z
+Incorrect
+
+Match
+8
+340462.0265
+340463.3236
+Z
+Correct
+
+No Match
+8
+340463.8759
+340465.0832
+Z
+Incorrect
+
+No Match
+4
+340465.6253
+340468.2612
+M
+Correct
+
+No Match
+8
+340468.8075
+340472.6492
+Z
+Incorrect
+
+No Match
+6
+340473.2055
+340474.7392
+Z
+Incorrect
+
+No Match
+4
+340475.2887
+340477.5964
+Z
+Incorrect

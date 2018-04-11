@@ -1,0 +1,7 @@
+K4 = 4.000000
+K6 = -6.000000
+K8 = NaN
+
+Match?	Num Boxes?	Test Item Onset Time	Response Time	Response Key	Response Correct?	
+No Match	6	510151.4518	510152.7831	Z	Incorrect	
+Match	4	510153.3511	510154.7548	Z	Correct	

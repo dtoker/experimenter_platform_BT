@@ -1,0 +1,3643 @@
+K4 =
+
+    1.6000
+
+
+K6 =
+
+    0.9000
+
+
+K8 =
+
+    0.8000
+
+
+ans =
+
+Match?
+
+
+ans =
+
+Num Boxes?
+
+
+ans =
+
+Test Item Onset Time
+
+
+ans =
+
+Response Time
+
+
+ans =
+
+Response Key
+
+
+ans =
+
+Response Correct?
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580756.4599
+
+
+ans =
+
+580760.578
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580761.1416
+
+
+ans =
+
+580763.5489
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580764.0905
+
+
+ans =
+
+580766.8717
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580767.4227
+
+
+ans =
+
+580769.8837
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580770.4383
+
+
+ans =
+
+580772.9386
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580773.4872
+
+
+ans =
+
+580775.8331
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580776.3862
+
+
+ans =
+
+580779.2569
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580779.8016
+
+
+ans =
+
+580782.0888
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580782.6339
+
+
+ans =
+
+580784.9839
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580785.5329
+
+
+ans =
+
+580788.1394
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580788.6818
+
+
+ans =
+
+580791.0473
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580791.5974
+
+
+ans =
+
+580793.9843
+
+
+ans =
+
+Z
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580794.5297
+
+
+ans =
+
+580796.7998
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580797.3454
+
+
+ans =
+
+580799.4766
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580800.0277
+
+
+ans =
+
+580802.5227
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580803.0766
+
+
+ans =
+
+580805.0364
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580805.5924
+
+
+ans =
+
+580807.5918
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580808.1415
+
+
+ans =
+
+580810.7349
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580811.2904
+
+
+ans =
+
+580813.8352
+
+
+ans =
+
+Z
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580814.3893
+
+
+ans =
+
+580816.9784
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580817.5215
+
+
+ans =
+
+580819.5797
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580820.1372
+
+
+ans =
+
+580822.3536
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580822.9029
+
+
+ans =
+
+580825.4544
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580826.0018
+
+
+ans =
+
+580828.2907
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580828.8341
+
+
+ans =
+
+580831.2619
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580831.8164
+
+
+ans =
+
+580834.1907
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580834.732
+
+
+ans =
+
+580837.1235
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580837.6643
+
+
+ans =
+
+580839.8555
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580840.3967
+
+
+ans =
+
+580842.7341
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580843.279
+
+
+ans =
+
+580845.8306
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580846.3779
+
+
+ans =
+
+580849.8457
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580850.3931
+
+
+ans =
+
+580853.064
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580853.6086
+
+
+ans =
+
+580855.6825
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580856.2244
+
+
+ans =
+
+580859.1697
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580859.7231
+
+
+ans =
+
+580862.2281
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580862.772
+
+
+ans =
+
+580864.8634
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580865.4044
+
+
+ans =
+
+580867.6415
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580868.1868
+
+
+ans =
+
+580870.9312
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580871.4856
+
+
+ans =
+
+580873.4823
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580874.0347
+
+
+ans =
+
+580876.021
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580876.5671
+
+
+ans =
+
+580878.3547
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580878.8996
+
+
+ans =
+
+580881.5016
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580882.0485
+
+
+ans =
+
+580885.848
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580886.3969
+
+
+ans =
+
+580888.6215
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580889.1626
+
+
+ans =
+
+580891.9528
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580892.4948
+
+
+ans =
+
+580895.9966
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580896.5433
+
+
+ans =
+
+580900.8296
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580901.3749
+
+
+ans =
+
+580903.4064
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580903.9573
+
+
+ans =
+
+580906.1546
+
+
+ans =
+
+Z
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580906.7064
+
+
+ans =
+
+580909.205
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580909.7553
+
+
+ans =
+
+580911.8442
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580912.3877
+
+
+ans =
+
+580914.3665
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580914.9201
+
+
+ans =
+
+580917.4123
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580917.969
+
+
+ans =
+
+580920.614
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580921.1679
+
+
+ans =
+
+580923.3496
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580923.9002
+
+
+ans =
+
+580926.9326
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580927.4823
+
+
+ans =
+
+580929.8064
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580930.3479
+
+
+ans =
+
+580932.5924
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580933.1469
+
+
+ans =
+
+580935.5843
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580936.1459
+
+
+ans =
+
+580938.4801
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580939.0282
+
+
+ans =
+
+580941.8739
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580942.427
+
+
+ans =
+
+580944.4297
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580944.976
+
+
+ans =
+
+580948.3479
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580948.8913
+
+
+ans =
+
+580951.6378
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580952.1901
+
+
+ans =
+
+580954.1556
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580954.7059
+
+
+ans =
+
+580956.7906
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580957.3383
+
+
+ans =
+
+580959.5017
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580960.054
+
+
+ans =
+
+580962.0278
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580962.5698
+
+
+ans =
+
+580964.6836
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580965.2355
+
+
+ans =
+
+580967.1299
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580967.6846
+
+
+ans =
+
+580969.5849
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580970.1337
+
+
+ans =
+
+580972.7275
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580973.2826
+
+
+ans =
+
+580975.1664
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580975.7151
+
+
+ans =
+
+580977.8895
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580978.4308
+
+
+ans =
+
+580980.5042
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580981.0465
+
+
+ans =
+
+580983.0349
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580983.5789
+
+
+ans =
+
+580985.5276
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580986.0781
+
+
+ans =
+
+580988.1789
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580988.7271
+
+
+ans =
+
+580990.8651
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580991.4095
+
+
+ans =
+
+580993.4162
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+580993.9586
+
+
+ans =
+
+580995.9718
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+580996.5243
+
+
+ans =
+
+580999.03
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+580999.5732
+
+
+ans =
+
+581002.4162
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581002.972
+
+
+ans =
+
+581005.2948
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581005.8377
+
+
+ans =
+
+581007.972
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581008.52
+
+
+ans =
+
+581010.7747
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581011.319
+
+
+ans =
+
+581013.817
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581014.368
+
+
+ans =
+
+581016.389
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581016.9337
+
+
+ans =
+
+581018.8773
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581019.4328
+
+
+ans =
+
+581022.3097
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581022.8649
+
+
+ans =
+
+581024.5546
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581025.0975
+
+
+ans =
+
+581026.938
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581027.48
+
+
+ans =
+
+581029.4472
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581029.9957
+
+
+ans =
+
+581032.0698
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581032.6114
+
+
+ans =
+
+581035.4093
+
+
+ans =
+
+Z
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581035.9603
+
+
+ans =
+
+581038.5222
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581039.0758
+
+
+ans =
+
+581041.1239
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581041.6749
+
+
+ans =
+
+581043.3609
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581043.9074
+
+
+ans =
+
+581045.8829
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581046.4232
+
+
+ans =
+
+581048.46
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581049.0056
+
+
+ans =
+
+581051.3041
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581051.8546
+
+
+ans =
+
+581053.843
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581054.387
+
+
+ans =
+
+581056.4111
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581056.9528
+
+
+ans =
+
+581059.0133
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581059.5685
+
+
+ans =
+
+581062.3403
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581062.884
+
+
+ans =
+
+581065.0721
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581065.6163
+
+
+ans =
+
+581067.5773
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581068.1321
+
+
+ans =
+
+581070.1369
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581070.6812
+
+
+ans =
+
+581072.9648
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581073.5135
+
+
+ans =
+
+581075.4951
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+No Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581076.0459
+
+
+ans =
+
+581078.0886
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581078.6284
+
+
+ans =
+
+581080.7785
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581081.3274
+
+
+ans =
+
+581083.2213
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581083.7765
+
+
+ans =
+
+581085.8221
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581086.3756
+
+
+ans =
+
+581089.3296
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+6
+
+
+ans =
+
+581089.8744
+
+
+ans =
+
+581092.3171
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581092.8733
+
+
+ans =
+
+581094.5248
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+No Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581095.0725
+
+
+ans =
+
+581096.892
+
+
+ans =
+
+M
+
+
+ans =
+
+Correct
+
+
+ans =
+
+Match
+
+
+ans =
+
+4
+
+
+ans =
+
+581097.4383
+
+
+ans =
+
+581099.4933
+
+
+ans =
+
+M
+
+
+ans =
+
+Incorrect
+
+
+ans =
+
+Match
+
+
+ans =
+
+8
+
+
+ans =
+
+581100.0374
+
+
+ans =
+
+581102.0782
+
+
+ans =
+
+Z
+
+
+ans =
+
+Correct

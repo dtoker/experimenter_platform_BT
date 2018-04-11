@@ -1,0 +1,7 @@
+Thanks for taking the task. It is completed now. You scored:
+* Correct Arithmetic Operation (out of 60): 53
+* Total Word Correctly Recalled (out of 60): 25
+* Word Span In Working Memory (max is 6):5
+Partial Correct Memory Span: 44
+* Average time (milli-seconds):3745
+

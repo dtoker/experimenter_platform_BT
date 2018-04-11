@@ -1,0 +1,125 @@
+K4 = 3.400000
+K6 = 3.000000
+K8 = 3.600000
+
+Match? Num Boxes? Test Item Onset Time Response Time Response Key Response Correct? 
+Match 8 88660.794 88662.5327 Z Correct 
+No Match 6 88663.3434 88665.1097 M Correct 
+Match 6 88665.6456 88667.4597 Z Correct 
+No Match 6 88667.9914 88670.441 M Correct 
+No Match 4 88670.971 88672.681 M Correct 
+No Match 8 88673.208 88675.041 M Correct 
+No Match 8 88675.58 88677.426 Z Incorrect 
+Match 8 88677.952 88679.822 Z Correct 
+No Match 6 88680.365 88681.974 M Correct 
+No Match 4 88682.515 88684.312 M Correct 
+No Match 8 88684.926 88686.646 Z Incorrect 
+Match 4 88687.189 88688.866 Z Correct 
+No Match 4 88689.402 88691.125 M Correct 
+No Match 8 88691.668 88693.394 M Correct 
+Match 8 88693.92 88696.089 M Incorrect 
+Match 4 88696.626 88698.875 Z Correct 
+Match 8 88699.412 88701.696 Z Correct 
+No Match 4 88702.237 88703.936 M Correct 
+Match 4 88704.463 88706.544 Z Correct 
+Match 4 88707.076 88709.183 Z Correct 
+Match 4 88709.755 88711.558 Z Correct 
+Match 6 88712.1 88713.858 Z Correct 
+No Match 4 88714.406 88716.217 M Correct 
+Match 8 88716.765 88718.802 M Incorrect 
+Match 8 88719.351 88721.14 Z Correct 
+Match 6 88721.671 88723.457 M Incorrect 
+No Match 6 88723.99 88725.757 M Correct 
+Match 8 88726.296 88728.12 Z Correct 
+No Match 6 88728.938 88730.831 M Correct 
+No Match 8 88731.374 88733.332 M Correct 
+Match 8 88733.866 88736.014 Z Correct 
+No Match 4 88736.545 88738.724 M Correct 
+No Match 6 88739.357 88741.265 M Correct 
+Match 4 88741.972 88743.858 M Incorrect 
+No Match 6 88744.409 88746.306 M Correct 
+No Match 4 88746.848 88748.999 M Correct 
+Match 8 88749.527 88751.392 M Incorrect 
+Match 6 88752.313 88754.046 Z Correct 
+Match 8 88754.579 88756.446 Z Correct 
+No Match 8 88757.058 88758.826 M Correct 
+Match 6 88759.698 88761.478 Z Correct 
+No Match 6 88762.018 88763.698 M Correct 
+Match 6 88764.242 88766.206 Z Correct 
+Match 6 88766.748 88768.635 M Incorrect 
+Match 6 88769.455 88771.227 Z Correct 
+No Match 4 88771.762 88773.486 M Correct 
+No Match 6 88774.283 88775.974 M Correct 
+Match 6 88776.505 88778.333 Z Correct 
+Match 6 88778.864 88780.763 M Incorrect 
+Match 8 88781.316 88783.118 Z Correct 
+Match 4 88784.024 88785.796 M Incorrect 
+Match 4 88786.328 88788.02 Z Correct 
+Match 6 88788.567 88790.523 M Incorrect 
+No Match 8 88791.073 88792.826 Z Incorrect 
+Match 4 88793.757 88795.403 Z Correct 
+Match 6 88795.937 88797.971 Z Correct 
+Match 8 88798.511 88800.439 Z Correct 
+No Match 6 88801.016 88802.667 M Correct 
+No Match 8 88803.589 88805.437 M Correct 
+Match 4 88805.974 88807.662 Z Correct 
+Match 4 88808.2 88810.159 M Incorrect 
+Match 6 88810.76 88812.527 Z Correct 
+No Match 4 88813.378 88815.191 M Correct 
+Match 8 88815.718 88817.63 Z Correct 
+No Match 4 88818.157 88820.492 M Correct 
+No Match 8 88821.036 88822.647 M Correct 
+Match 4 88823.515 88825.277 Z Correct 
+No Match 6 88825.888 88828.265 M Correct 
+No Match 4 88828.793 88830.648 M Correct 
+No Match 6 88831.181 88832.991 Z Incorrect 
+No Match 6 88833.538 88835.376 M Correct 
+No Match 4 88836.046 88837.96 M Correct 
+No Match 6 88838.496 88840.352 M Correct 
+Match 8 88840.882 88842.753 M Incorrect 
+No Match 6 88843.281 88845.26 M Correct 
+Match 8 88845.867 88847.799 Z Correct 
+Match 4 88848.333 88850.442 Z Correct 
+No Match 8 88850.985 88852.982 M Correct 
+Match 6 88853.517 88855.874 Z Correct 
+No Match 8 88856.41 88858.225 M Correct 
+No Match 6 88858.972 88860.668 M Correct 
+Match 6 88861.195 88863.043 Z Correct 
+No Match 4 88863.581 88865.418 M Correct 
+No Match 4 88866.007 88867.916 M Correct 
+Match 8 88868.634 88870.426 M Incorrect 
+No Match 4 88870.952 88872.86 M Correct 
+No Match 4 88873.39 88875.211 M Correct 
+No Match 8 88875.79 88877.624 M Correct 
+No Match 8 88878.416 88880.318 M Correct 
+Match 6 88880.854 88882.824 Z Correct 
+Match 8 88883.374 88885.731 M Incorrect 
+Match 6 88886.268 88888.196 Z Correct 
+Match 4 88888.772 88890.529 Z Correct 
+No Match 4 88891.452 88893.702 M Correct 
+Match 4 88894.65 88896.657 Z Correct 
+Match 6 88897.196 88899.288 M Incorrect 
+Match 4 88899.821 88901.642 Z Correct 
+No Match 8 88902.181 88904.644 M Correct 
+No Match 6 88905.193 88907.045 Z Incorrect 
+No Match 8 88907.708 88909.529 M Correct 
+No Match 8 88910.06 88912.19 M Correct 
+No Match 6 88912.723 88914.848 Z Incorrect 
+Match 4 88915.39 88917.601 Z Correct 
+No Match 8 88918.135 88920.006 M Correct 
+Match 8 88920.694 88923.082 Z Correct 
+No Match 8 88923.92 88925.76 M Correct 
+Match 4 88926.292 88928.101 Z Correct 
+No Match 4 88928.638 88930.452 M Correct 
+Match 4 88931.024 88932.845 Z Correct 
+Match 6 88933.663 88935.531 M Incorrect 
+No Match 4 88936.075 88937.864 M Correct 
+No Match 6 88938.394 88940.248 M Correct 
+Match 8 88940.821 88942.716 M Incorrect 
+Match 4 88943.406 88945.07 Z Correct 
+No Match 6 88945.619 88947.551 M Correct 
+Match 6 88948.085 88950.17 M Incorrect 
+Match 8 88950.697 88952.775 M Incorrect 
+No Match 4 88953.336 88955.127 M Correct 
+No Match 8 88955.655 88957.595 M Correct 
+No Match 8 88958.121 88960.092 M Correct 
