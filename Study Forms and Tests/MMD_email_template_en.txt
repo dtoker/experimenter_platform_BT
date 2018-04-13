@@ -1,0 +1,22 @@
+Hi {NAME OF THE PARTICIPANT},
+
+Thank you for having signed up to the MSNV Study experiment.
+
+As a reminder, your appointment is {DATE AND TIME OF THE EXPERIMENT}, room 1.26, FIIT STU (Ilkovicova 2, 842 16 Bratislava).
+
+As advertised, participants are required to complete a few online tests before the study. You can access to the tests by using the links below:
+
+https://www.cs.ubc.ca/group/iui/MMDTests/OP.php?uid={PUT PID HERE}
+https://www.cs.ubc.ca/group/iui/MMDTests/VARK.php?uid={PUT PID HERE}
+https://www.cs.ubc.ca/group/iui/MMDTests/NC.php?uid={PUT PID HERE}
+https://www.cs.ubc.ca/group/iui/MMDTests/_02_calibrated_VL_tests/_03_BC/index.html?uid={PUT PID HERE}
+
+For reference, your participant number is: {PUT PID HERE}
+
+Furthermore, I have attached the link to the consent form where you can learn more about the study and your rights. Notice that your participation is entirely voluntary and you may withdraw from the study at any time.
+http://www.cs.ubc.ca/~dtoker/MMD_study/consent_form_mmd.pdf
+Completing the tests linked above are mandatory to attend the study.
+
+Cheers, 
+
+{SIGNATURE}
