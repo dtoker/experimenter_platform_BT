@@ -25,15 +25,21 @@ class Application(tornado.web.Application):
             (r"/questionnaire", QuestionnaireHandler),
             (r"/resume", ResumeHandler),
             (r"/userID", UserIDHandler),
-            (r"/prestudy", PreStudyHandler), (r"/(Sample_bars.png)", tornado.web.StaticFileHandler, {'path':'./'}),
-                                             (r"/(Sample_bars_2.png)", tornado.web.StaticFileHandler, {'path':'./'}),
-            (r"/sample_MMD", SampleHandler), (r"/(ExampleMMD.png)", tornado.web.StaticFileHandler, {'path':'./'}),
-            (r"/sample_Q", SampleHandler2), (r"/(ExampleQ.png)", tornado.web.StaticFileHandler, {'path':'./'}),
-            (r"/calibration", CalibrationHandler), (r"/(blank_cross.jpg)", tornado.web.StaticFileHandler, {'path':'./'}),
+            (r"/prestudy", PreStudyHandler),
+            (r"/(Sample_bars.png)", tornado.web.StaticFileHandler, {'path':'./'}),
+            (r"/(Sample_bars_2.png)", tornado.web.StaticFileHandler, {'path':'./'}),
+            (r"/sample_MMD", SampleHandler),
+            (r"/(ExampleMMD.png)", tornado.web.StaticFileHandler, {'path':'./'}),
+            (r"/(ExampleMMD0.png)", tornado.web.StaticFileHandler, {'path':'./'}),
+            (r"/sample_Q", SampleHandler2),
+            (r"/(ExampleQ.png)", tornado.web.StaticFileHandler, {'path':'./'}),
+            (r"/calibration", CalibrationHandler),
+            (r"/(blank_cross.jpg)", tornado.web.StaticFileHandler, {'path':'./'}),
             (r"/tobii", TobiiHandler),
             (r"/ready", ReadyHandler),
             (r"/done", DoneHandler),
-            (r"/final_question", FinalHandler), (r"/(post_question.png)", tornado.web.StaticFileHandler, {'path':'./'}),
+            (r"/final_question", FinalHandler),
+            (r"/(post_question.png)", tornado.web.StaticFileHandler, {'path':'./'}),
             (r"/done2", DoneHandler2)
         ]
         #connects to database
@@ -292,7 +298,10 @@ class PreStudyHandler(tornado.web.RequestHandler):
 
 class SampleHandler(tornado.web.RequestHandler):
     def get(self):
-        self.render("sample_mmd.html")
+        if(int(self.application.cur_group)==1):
+            self.render("sample_mmd.html")
+        else:
+            self.render("sample_mmd0.html")
     def post(self):
         self.redirect('/sample_Q')
 
@@ -328,7 +337,10 @@ class DoneHandler(tornado.web.RequestHandler):
 
 class FinalHandler(tornado.web.RequestHandler):
     def get(self):
-        self.render("final_question.html")
+        if(int(self.application.cur_group)==1):
+            self.render("final_question.html")
+        else:
+            self.render("final_question0.html")
     def post(self):
         q1 = self.get_argument('viz_pref')
 
@@ -348,7 +360,7 @@ def main():
     #Application() refers to 'class Application'
     http_server = tornado.httpserver.HTTPServer(Application())
     http_server.listen(options.port)
-    
+
     print "Server started at http://localhost:%d" % options.port
     print "Type Ctrl+C to terminate the server"
 
