@@ -1,0 +1,24 @@
+Dobry den {NAME OF THE PARTICIPANT},
+
+dakujeme Vam za Vasu ochotu zucastnit sa MSNV studie. 
+
+Pripominame, ze studia sa bude konat {DATE AND TIME OF THE EXPERIMENT} v UX Classe (cislo miesnosti 1.26) na FIIT STU (Ilkovicova 2, 842 16 Bratislava).
+
+Ako bolo avizovane, ucastnici musia pred studiou vyplnit par online testov. K testom sa dostanete pomocou nasledovnych odkazov:
+
+https://www.cs.ubc.ca/group/iui/MMDTests/OP.php?uid={PUT PID HERE}
+https://www.cs.ubc.ca/group/iui/MMDTests/VARK.php?uid={PUT PID HERE}
+https://www.cs.ubc.ca/group/iui/MMDTests/NC.php?uid={PUT PID HERE}
+https://www.cs.ubc.ca/group/iui/MMDTests/_02_calibrated_VL_tests/_03_BC/index.html?uid={PUT PID HERE}
+
+Vas identifikator participanta (t. j. participant ID, alebo skratene PID) je: {PUT PID HERE}
+
+Dalej prikladame odkaz na formular s informovanym suhlasom, kde sa mozete dozvediet viac o studii a Vasich pravach. Vasa ucast na studii je v kazdom ohlade dobrovolna a mozete ju odvolat v ktoromkolvek okamihu.
+http://www.cs.ubc.ca/~dtoker/MMD_study/consent_form_mmd.pdf
+
+Vyplnenie vyssie uvedenych testov je nutnou podmienkou pre to, aby ste sa mohli zucastnit studie.
+
+Dakujeme.
+
+S pozdravom
+{SIGNATURE}
