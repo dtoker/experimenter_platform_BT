@@ -34,7 +34,7 @@ class Application(tornado.web.Application):
             (r"/sample_Q", SampleHandler2),
             (r"/(ExampleQ.png)", tornado.web.StaticFileHandler, {'path':'./'}),
             (r"/calibration", CalibrationHandler),
-            (r"/(blank_cross.jpg)", tornado.web.StaticFileHandler, {'path':'./'}),
+            (r"/(blank_cross02.png)", tornado.web.StaticFileHandler, {'path':'./'}),
             (r"/tobii", TobiiHandler),
             (r"/ready", ReadyHandler),
             (r"/done", DoneHandler),
